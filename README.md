@@ -222,14 +222,6 @@ public class Developer {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=huyme2103&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=huyme2103&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=huyme2103&theme=react-dark&hide_border=true&bg_color=0d1117" />
 </p>
 
