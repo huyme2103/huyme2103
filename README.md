@@ -218,7 +218,6 @@ public class Developer {
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huyme2103&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" height="180" />
   <img src="https://streak-stats.demolab.com/?user=huyme2103&theme=radical&hide_border=true&background=0d1117" height="180" />
 </p>
 
