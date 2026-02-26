@@ -156,36 +156,19 @@ public class Developer {
 ## 💻 Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,cpp,python,java,vscode,visualstudio,git,github,androidstudio,figma&perline=6" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,photoshop,premiere,blender,git,github&perline=7" />
 </p>
 
-### Game Development
-```yaml
-Engine:          Unity (2D/3D), Unreal Engine (Learning)
-Languages:       C#, C++, Python
-Frameworks:      .NET, Unity API
-Patterns:        OOP, MVC, Singleton, Observer, State Machine
-```
+### 💬 Language
+**C#** • OOP (Object-Oriented Programming)
 
-### Game Systems Expertise
-```yaml
-Core Systems:    Character Controllers, Combat, Inventory, Crafting
-AI:              Behavior Trees, State Machines, Pathfinding
-Algorithms:      BFS (Flood Fill), Texture2D Rendering, Physics Simulation
-Animation:       Sprite Animation, Particle Systems, VFX, LeanTween
-Physics:         2D/3D Collision, Rigidbody, Sand Physics Simulation
-UI/UX:           Unity Canvas, Menu Systems, HUD Design, Drag & Drop
-Architecture:    Singleton, Observer, State, Object Pool, SOLID Principles
-```
+**Design Patterns**: Singleton, Observer, State, Object Pool
 
-### Tools & Platforms
-```yaml
-IDEs:            Visual Studio, VS Code, Rider
-Version Control: Git, GitHub, GitLab
-Mobile:          Android SDK, Google Play Console, AdMob
-Design:          Photoshop, Premiere Pro, Blender 3D, Aseprite, Figma
-Project Mgmt:    Trello, Notion, Agile methodology
-```
+### 💻 Computer
+**Photoshop** • **Premiere** • **Unity Engine** • **Blender 3D**
+
+### 🔧 Version Control
+**Git** • **GitHub**
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
